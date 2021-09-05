@@ -3,3 +3,4 @@ singUP 31 33
 singRIGHT 46 -5
 singLEFT 73 0
 singDOWN 28 -43
+singUP-alt -47 24
